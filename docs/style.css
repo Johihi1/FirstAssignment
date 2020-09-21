@@ -1,0 +1,11 @@
+html, body{
+margin: 0;
+padding: 0;
+align-content: center;
+}
+h1{
+    font-style: unset;
+}
+img{
+    max-width: 250px;
+}
